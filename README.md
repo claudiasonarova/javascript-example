@@ -1,4 +1,3 @@
 # javascript-example
 
-Test
-Test 2
+This is an example.
