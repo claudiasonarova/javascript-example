@@ -1,4 +1,3 @@
 # javascript-example
 
-Test
-Pull Request
+This is an example.
