@@ -1,3 +1,3 @@
 # javascript-example
 
-This is an example.
+This is an example with some small change.
